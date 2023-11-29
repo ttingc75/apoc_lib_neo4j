@@ -1,0 +1,16 @@
+﻿[
+  {
+    "file": null,
+    "source": "database: nodes(0), rels(0)",
+    "format": "json",
+    "nodes": 0,
+    "relationships": 0,
+    "properties": 0,
+    "time": 11,
+    "rows": 0,
+    "batchSize": -1,
+    "batches": 1,
+    "done": true,
+    "data": ""
+  }
+]
