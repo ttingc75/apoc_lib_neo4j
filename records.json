@@ -1,14 +1,20 @@
+[
   {
     "file": null,
     "source": "database: nodes(5), rels(0)",
     "format": "json",
     "nodes": 5,
     "relationships": 0,
+    "properties": 5,
     "time": 1,
     "rows": 5,
     "batchSize": -1,
     "batches": 0,
     "done": true,
-    "data": "{\"type\":\"node\",\"id\":\"0\",\"labels\":[\"Actor\",\"Person\"],\"properties\":{\"name\":\"Charlie Sheen\"}}{\"type\":\"node\",\"id\":\"1\",\"labels\":[\"Director\",\"Person\"],\"properties\":{\"name\":\"Oliver Stone\"}}{\"type\":\"node\",\"id\":\"2\",\"labels\":[\"Actor\",\"Person\"],\"properties\":{\"name\":\"Charlie Sheen\"}}{\"type\":\"node\",\"id\":\"3\",\"labels\":[\"Director\",\"Person\"],\"properties\":{\"name\":\"Oliver Stone\"}}{\"type\":\"node\",\"id\":\"4\",\"labels\":[\"Actor\",\"Person\"],\"properties\":{\"name\":\"Tom Hanks\"}}"
+    "data": "{\"type\":\"node\",\"id\":\"0\",\"labels\":[\"Actor\",\"Person\"],\"properties\":{\"name\":\"Charlie Sheen\"}}
+{\"type\":\"node\",\"id\":\"1\",\"labels\":[\"Director\",\"Person\"],\"properties\":{\"name\":\"Oliver Stone\"}}
+{\"type\":\"node\",\"id\":\"2\",\"labels\":[\"Actor\",\"Person\"],\"properties\":{\"name\":\"Charlie Sheen\"}}
+{\"type\":\"node\",\"id\":\"3\",\"labels\":[\"Director\",\"Person\"],\"properties\":{\"name\":\"Oliver Stone\"}}
+{\"type\":\"node\",\"id\":\"4\",\"labels\":[\"Actor\",\"Person\"],\"properties\":{\"name\":\"Tom Hanks\"}}"
   }
-
+]
